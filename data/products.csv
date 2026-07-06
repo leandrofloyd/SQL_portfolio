@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,48.26
+2,Keyboard,Electronics,80.47
+3,USB-C Hub,Electronics,15.01
+4,Webcam,Electronics,86.5
+5,Bluetooth Speaker,Electronics,21.58
+6,Desk Lamp,Home Office,94.75
+7,Office Chair,Home Office,112.23
+8,Notebook Stand,Home Office,67.1
+9,Desk Organizer,Home Office,107.72
+10,Monitor Arm,Home Office,173.0
+11,SQL Handbook,Books,51.57
+12,Python for Data,Books,50.37
+13,Statistics Basics,Books,155.5
+14,Machine Learning Intro,Books,100.58
+15,Business Analytics,Books,173.32
+16,Yoga Mat,Sports,128.44
+17,Running Bottle,Sports,149.12
+18,Resistance Bands,Sports,64.19
+19,Gym Bag,Sports,162.37
+20,Fitness Tracker,Sports,119.22
+21,Backpack,Accessories,169.38
+22,Phone Case,Accessories,225.54
+23,Laptop Sleeve,Accessories,120.59
+24,Cable Organizer,Accessories,77.61
+25,Power Bank,Accessories,140.28

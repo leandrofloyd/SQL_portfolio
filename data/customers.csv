@@ -1,0 +1,501 @@
+customer_id,customer_name,country,signup_date
+1,Customer 001,Brazil,2023-01-26
+2,Customer 002,France,2023-09-08
+3,Customer 003,Spain,2023-05-23
+4,Customer 004,Brazil,2024-11-23
+5,Customer 005,Brazil,2024-08-27
+6,Customer 006,Netherlands,2023-02-02
+7,Customer 007,Portugal,2023-04-06
+8,Customer 008,Spain,2023-08-27
+9,Customer 009,Portugal,2024-07-28
+10,Customer 010,Spain,2024-10-27
+11,Customer 011,Netherlands,2023-08-14
+12,Customer 012,United Kingdom,2024-08-26
+13,Customer 013,France,2023-01-07
+14,Customer 014,Germany,2024-03-08
+15,Customer 015,Italy,2023-10-12
+16,Customer 016,Germany,2023-08-09
+17,Customer 017,Italy,2023-04-15
+18,Customer 018,Brazil,2024-01-25
+19,Customer 019,Brazil,2024-01-03
+20,Customer 020,Italy,2024-09-10
+21,Customer 021,France,2023-02-14
+22,Customer 022,United Kingdom,2024-07-03
+23,Customer 023,Brazil,2024-01-23
+24,Customer 024,Brazil,2024-07-19
+25,Customer 025,France,2024-10-05
+26,Customer 026,Italy,2024-08-14
+27,Customer 027,Spain,2023-03-13
+28,Customer 028,Portugal,2024-11-08
+29,Customer 029,Spain,2023-10-24
+30,Customer 030,Brazil,2023-08-27
+31,Customer 031,Brazil,2024-01-25
+32,Customer 032,France,2024-04-09
+33,Customer 033,Italy,2023-06-16
+34,Customer 034,Italy,2023-12-30
+35,Customer 035,Spain,2024-11-17
+36,Customer 036,France,2024-11-30
+37,Customer 037,Brazil,2024-09-15
+38,Customer 038,Germany,2024-06-30
+39,Customer 039,Spain,2023-06-17
+40,Customer 040,United Kingdom,2024-01-24
+41,Customer 041,France,2024-10-17
+42,Customer 042,Spain,2023-11-29
+43,Customer 043,Portugal,2023-08-23
+44,Customer 044,Portugal,2023-11-20
+45,Customer 045,Netherlands,2023-10-02
+46,Customer 046,Brazil,2023-08-05
+47,Customer 047,Italy,2023-08-06
+48,Customer 048,United Kingdom,2024-02-10
+49,Customer 049,United Kingdom,2023-05-27
+50,Customer 050,France,2023-05-23
+51,Customer 051,Spain,2024-07-28
+52,Customer 052,France,2024-08-21
+53,Customer 053,Netherlands,2024-08-20
+54,Customer 054,Netherlands,2024-01-06
+55,Customer 055,Spain,2023-05-22
+56,Customer 056,United Kingdom,2023-04-04
+57,Customer 057,Portugal,2023-04-23
+58,Customer 058,Germany,2024-10-04
+59,Customer 059,Germany,2024-11-27
+60,Customer 060,Netherlands,2024-09-02
+61,Customer 061,Brazil,2024-01-30
+62,Customer 062,Netherlands,2024-09-02
+63,Customer 063,United Kingdom,2024-06-25
+64,Customer 064,France,2024-07-20
+65,Customer 065,Portugal,2024-11-27
+66,Customer 066,Brazil,2024-11-29
+67,Customer 067,France,2024-10-18
+68,Customer 068,Italy,2023-04-25
+69,Customer 069,France,2024-03-21
+70,Customer 070,Germany,2024-04-09
+71,Customer 071,Portugal,2023-09-27
+72,Customer 072,Germany,2024-06-03
+73,Customer 073,Brazil,2024-10-02
+74,Customer 074,France,2024-10-16
+75,Customer 075,Spain,2023-06-06
+76,Customer 076,Italy,2023-06-15
+77,Customer 077,Portugal,2024-09-05
+78,Customer 078,Italy,2024-05-15
+79,Customer 079,Portugal,2023-04-25
+80,Customer 080,Italy,2023-11-11
+81,Customer 081,Spain,2023-03-01
+82,Customer 082,Spain,2024-08-03
+83,Customer 083,Brazil,2023-03-29
+84,Customer 084,United Kingdom,2023-03-12
+85,Customer 085,Germany,2023-05-12
+86,Customer 086,United Kingdom,2024-07-16
+87,Customer 087,Germany,2023-09-29
+88,Customer 088,Netherlands,2023-08-05
+89,Customer 089,Spain,2023-11-16
+90,Customer 090,Netherlands,2024-11-18
+91,Customer 091,Italy,2024-03-24
+92,Customer 092,United Kingdom,2023-05-04
+93,Customer 093,Spain,2023-08-19
+94,Customer 094,Brazil,2023-12-13
+95,Customer 095,Portugal,2024-08-25
+96,Customer 096,Spain,2024-08-25
+97,Customer 097,Spain,2023-01-08
+98,Customer 098,Brazil,2024-10-08
+99,Customer 099,Portugal,2023-08-23
+100,Customer 100,Brazil,2023-02-02
+101,Customer 101,Italy,2023-03-14
+102,Customer 102,Spain,2023-10-13
+103,Customer 103,United Kingdom,2023-08-08
+104,Customer 104,Germany,2024-08-07
+105,Customer 105,United Kingdom,2023-09-06
+106,Customer 106,United Kingdom,2024-02-21
+107,Customer 107,Spain,2023-04-07
+108,Customer 108,Brazil,2024-11-05
+109,Customer 109,Netherlands,2023-12-29
+110,Customer 110,Netherlands,2024-02-25
+111,Customer 111,United Kingdom,2023-02-25
+112,Customer 112,Brazil,2023-03-04
+113,Customer 113,Netherlands,2023-12-14
+114,Customer 114,Brazil,2023-09-12
+115,Customer 115,Spain,2023-07-14
+116,Customer 116,United Kingdom,2023-05-24
+117,Customer 117,Netherlands,2023-07-07
+118,Customer 118,France,2024-04-18
+119,Customer 119,Spain,2023-03-19
+120,Customer 120,United Kingdom,2024-07-17
+121,Customer 121,Brazil,2023-02-21
+122,Customer 122,Portugal,2023-04-06
+123,Customer 123,Spain,2023-06-20
+124,Customer 124,Netherlands,2024-05-12
+125,Customer 125,United Kingdom,2023-08-07
+126,Customer 126,Netherlands,2023-03-02
+127,Customer 127,Germany,2024-01-24
+128,Customer 128,Portugal,2024-02-04
+129,Customer 129,France,2024-04-10
+130,Customer 130,France,2024-03-09
+131,Customer 131,United Kingdom,2023-06-08
+132,Customer 132,Spain,2023-10-31
+133,Customer 133,Spain,2023-03-01
+134,Customer 134,Portugal,2023-11-18
+135,Customer 135,Portugal,2023-02-21
+136,Customer 136,United Kingdom,2024-05-29
+137,Customer 137,Germany,2023-02-28
+138,Customer 138,Brazil,2023-07-10
+139,Customer 139,Brazil,2024-09-01
+140,Customer 140,Brazil,2024-11-22
+141,Customer 141,Spain,2024-02-18
+142,Customer 142,Brazil,2024-08-06
+143,Customer 143,Spain,2024-08-15
+144,Customer 144,Portugal,2024-09-26
+145,Customer 145,Brazil,2024-03-05
+146,Customer 146,Italy,2023-09-25
+147,Customer 147,Spain,2024-11-16
+148,Customer 148,Italy,2023-09-02
+149,Customer 149,France,2024-02-10
+150,Customer 150,Germany,2024-11-18
+151,Customer 151,France,2024-04-13
+152,Customer 152,Italy,2023-03-16
+153,Customer 153,Portugal,2024-04-14
+154,Customer 154,Brazil,2023-03-17
+155,Customer 155,Spain,2024-06-02
+156,Customer 156,France,2023-05-16
+157,Customer 157,Italy,2023-03-12
+158,Customer 158,Spain,2024-01-14
+159,Customer 159,France,2023-06-11
+160,Customer 160,United Kingdom,2024-07-10
+161,Customer 161,France,2024-09-18
+162,Customer 162,Portugal,2024-11-14
+163,Customer 163,France,2024-11-10
+164,Customer 164,Brazil,2023-05-18
+165,Customer 165,France,2023-04-29
+166,Customer 166,Brazil,2024-07-20
+167,Customer 167,Germany,2023-10-06
+168,Customer 168,France,2024-09-11
+169,Customer 169,Spain,2023-12-18
+170,Customer 170,Spain,2024-10-11
+171,Customer 171,France,2024-06-01
+172,Customer 172,United Kingdom,2023-09-15
+173,Customer 173,Portugal,2023-04-05
+174,Customer 174,Netherlands,2023-10-11
+175,Customer 175,Portugal,2023-01-04
+176,Customer 176,Italy,2023-05-14
+177,Customer 177,France,2023-06-15
+178,Customer 178,United Kingdom,2024-07-18
+179,Customer 179,Netherlands,2024-07-28
+180,Customer 180,Portugal,2023-04-25
+181,Customer 181,Brazil,2023-06-02
+182,Customer 182,Portugal,2024-01-14
+183,Customer 183,Germany,2024-03-16
+184,Customer 184,Germany,2023-02-12
+185,Customer 185,France,2024-01-09
+186,Customer 186,Portugal,2024-01-02
+187,Customer 187,Spain,2024-11-29
+188,Customer 188,Spain,2024-11-13
+189,Customer 189,Brazil,2023-12-29
+190,Customer 190,Netherlands,2024-09-27
+191,Customer 191,Germany,2023-08-31
+192,Customer 192,Germany,2023-07-01
+193,Customer 193,Netherlands,2023-01-26
+194,Customer 194,Germany,2023-12-07
+195,Customer 195,Netherlands,2024-11-16
+196,Customer 196,Spain,2023-10-01
+197,Customer 197,Germany,2023-04-21
+198,Customer 198,Netherlands,2023-02-09
+199,Customer 199,United Kingdom,2023-08-16
+200,Customer 200,Spain,2024-04-16
+201,Customer 201,Italy,2023-11-09
+202,Customer 202,Spain,2023-08-17
+203,Customer 203,Portugal,2024-11-06
+204,Customer 204,Spain,2024-02-13
+205,Customer 205,Italy,2023-10-13
+206,Customer 206,Brazil,2023-10-13
+207,Customer 207,Italy,2024-10-18
+208,Customer 208,Netherlands,2024-11-26
+209,Customer 209,Italy,2023-01-29
+210,Customer 210,Brazil,2023-09-25
+211,Customer 211,Germany,2024-08-17
+212,Customer 212,France,2023-02-09
+213,Customer 213,Brazil,2024-09-02
+214,Customer 214,Netherlands,2023-12-20
+215,Customer 215,Italy,2024-03-22
+216,Customer 216,Brazil,2024-01-30
+217,Customer 217,Spain,2023-09-18
+218,Customer 218,Portugal,2024-03-22
+219,Customer 219,Portugal,2024-06-16
+220,Customer 220,Spain,2024-01-08
+221,Customer 221,Netherlands,2023-03-13
+222,Customer 222,Italy,2024-09-30
+223,Customer 223,Italy,2024-11-10
+224,Customer 224,Brazil,2023-11-04
+225,Customer 225,France,2024-11-13
+226,Customer 226,Netherlands,2023-12-01
+227,Customer 227,Netherlands,2023-10-30
+228,Customer 228,Germany,2023-07-16
+229,Customer 229,Netherlands,2024-11-11
+230,Customer 230,Netherlands,2024-11-24
+231,Customer 231,Germany,2024-09-22
+232,Customer 232,France,2024-02-20
+233,Customer 233,Portugal,2023-11-08
+234,Customer 234,France,2023-08-04
+235,Customer 235,Netherlands,2024-08-16
+236,Customer 236,Italy,2024-04-21
+237,Customer 237,United Kingdom,2024-03-28
+238,Customer 238,Spain,2024-06-07
+239,Customer 239,United Kingdom,2023-06-23
+240,Customer 240,Brazil,2023-10-18
+241,Customer 241,Italy,2023-04-06
+242,Customer 242,Spain,2024-11-19
+243,Customer 243,France,2023-08-19
+244,Customer 244,Spain,2023-05-31
+245,Customer 245,Portugal,2023-02-17
+246,Customer 246,Spain,2024-05-01
+247,Customer 247,Brazil,2024-04-11
+248,Customer 248,Netherlands,2024-10-06
+249,Customer 249,Spain,2024-01-29
+250,Customer 250,United Kingdom,2024-02-14
+251,Customer 251,Spain,2023-06-01
+252,Customer 252,Portugal,2023-04-20
+253,Customer 253,Netherlands,2023-08-13
+254,Customer 254,Germany,2024-06-14
+255,Customer 255,United Kingdom,2023-02-21
+256,Customer 256,Spain,2023-05-05
+257,Customer 257,United Kingdom,2023-05-17
+258,Customer 258,United Kingdom,2024-11-14
+259,Customer 259,Italy,2024-03-29
+260,Customer 260,Netherlands,2024-07-15
+261,Customer 261,United Kingdom,2023-06-12
+262,Customer 262,United Kingdom,2024-04-05
+263,Customer 263,France,2023-09-11
+264,Customer 264,France,2024-06-17
+265,Customer 265,United Kingdom,2024-10-03
+266,Customer 266,Spain,2023-10-09
+267,Customer 267,United Kingdom,2023-03-21
+268,Customer 268,France,2023-08-29
+269,Customer 269,France,2023-12-10
+270,Customer 270,Italy,2024-07-07
+271,Customer 271,Brazil,2023-05-22
+272,Customer 272,Germany,2023-08-25
+273,Customer 273,Netherlands,2023-06-06
+274,Customer 274,Spain,2023-03-07
+275,Customer 275,Netherlands,2024-02-22
+276,Customer 276,Italy,2024-07-09
+277,Customer 277,United Kingdom,2024-03-01
+278,Customer 278,Portugal,2023-07-31
+279,Customer 279,Netherlands,2024-02-03
+280,Customer 280,Portugal,2024-08-12
+281,Customer 281,Netherlands,2024-05-03
+282,Customer 282,Portugal,2023-12-27
+283,Customer 283,France,2024-02-04
+284,Customer 284,Netherlands,2024-07-05
+285,Customer 285,Spain,2024-05-14
+286,Customer 286,Spain,2023-10-07
+287,Customer 287,Netherlands,2024-05-12
+288,Customer 288,Portugal,2024-02-03
+289,Customer 289,Italy,2024-11-15
+290,Customer 290,Netherlands,2023-06-19
+291,Customer 291,United Kingdom,2023-05-11
+292,Customer 292,Portugal,2024-02-08
+293,Customer 293,Portugal,2023-03-27
+294,Customer 294,Netherlands,2023-05-19
+295,Customer 295,United Kingdom,2023-07-06
+296,Customer 296,Portugal,2023-09-24
+297,Customer 297,Netherlands,2023-12-02
+298,Customer 298,Spain,2024-04-10
+299,Customer 299,Italy,2023-12-12
+300,Customer 300,Netherlands,2023-10-12
+301,Customer 301,Netherlands,2023-09-16
+302,Customer 302,Brazil,2024-04-26
+303,Customer 303,Portugal,2024-07-06
+304,Customer 304,Portugal,2023-12-25
+305,Customer 305,Spain,2024-10-27
+306,Customer 306,Brazil,2024-10-29
+307,Customer 307,Portugal,2023-02-01
+308,Customer 308,Spain,2023-07-24
+309,Customer 309,Portugal,2024-09-28
+310,Customer 310,Germany,2023-09-02
+311,Customer 311,Germany,2024-04-29
+312,Customer 312,Brazil,2024-07-31
+313,Customer 313,Spain,2024-04-21
+314,Customer 314,France,2024-01-13
+315,Customer 315,Germany,2024-09-12
+316,Customer 316,Brazil,2023-06-17
+317,Customer 317,France,2023-04-21
+318,Customer 318,Portugal,2023-11-16
+319,Customer 319,Netherlands,2024-02-11
+320,Customer 320,Spain,2023-03-19
+321,Customer 321,Spain,2023-04-15
+322,Customer 322,France,2024-12-01
+323,Customer 323,Brazil,2024-08-02
+324,Customer 324,Portugal,2023-12-22
+325,Customer 325,Netherlands,2024-11-08
+326,Customer 326,Italy,2023-03-12
+327,Customer 327,Italy,2023-01-13
+328,Customer 328,Netherlands,2024-05-16
+329,Customer 329,Brazil,2024-03-19
+330,Customer 330,Italy,2024-10-12
+331,Customer 331,United Kingdom,2023-06-06
+332,Customer 332,Netherlands,2023-06-30
+333,Customer 333,France,2024-09-22
+334,Customer 334,United Kingdom,2024-04-21
+335,Customer 335,Netherlands,2024-08-29
+336,Customer 336,France,2023-11-27
+337,Customer 337,Spain,2023-03-30
+338,Customer 338,France,2024-04-06
+339,Customer 339,Spain,2024-04-20
+340,Customer 340,Netherlands,2023-12-11
+341,Customer 341,Portugal,2024-05-21
+342,Customer 342,Italy,2023-07-06
+343,Customer 343,United Kingdom,2023-08-06
+344,Customer 344,Italy,2023-09-22
+345,Customer 345,Italy,2023-10-14
+346,Customer 346,France,2024-07-23
+347,Customer 347,Portugal,2024-06-13
+348,Customer 348,Spain,2023-03-29
+349,Customer 349,Spain,2024-02-21
+350,Customer 350,United Kingdom,2024-07-22
+351,Customer 351,Spain,2024-05-02
+352,Customer 352,United Kingdom,2024-04-03
+353,Customer 353,Portugal,2023-04-06
+354,Customer 354,France,2023-08-15
+355,Customer 355,Netherlands,2023-09-07
+356,Customer 356,France,2024-11-10
+357,Customer 357,Italy,2024-04-29
+358,Customer 358,Italy,2024-03-11
+359,Customer 359,Italy,2023-12-27
+360,Customer 360,United Kingdom,2023-10-05
+361,Customer 361,France,2023-09-15
+362,Customer 362,Spain,2023-05-04
+363,Customer 363,Spain,2023-11-20
+364,Customer 364,Brazil,2024-07-02
+365,Customer 365,Germany,2023-07-16
+366,Customer 366,Spain,2024-05-10
+367,Customer 367,France,2024-08-26
+368,Customer 368,France,2023-04-13
+369,Customer 369,Spain,2023-10-31
+370,Customer 370,Spain,2024-01-05
+371,Customer 371,Germany,2023-11-06
+372,Customer 372,Portugal,2024-06-30
+373,Customer 373,Germany,2023-10-08
+374,Customer 374,Portugal,2023-02-25
+375,Customer 375,France,2023-05-10
+376,Customer 376,United Kingdom,2023-04-16
+377,Customer 377,Portugal,2024-08-10
+378,Customer 378,France,2024-04-25
+379,Customer 379,United Kingdom,2024-03-27
+380,Customer 380,Italy,2023-07-08
+381,Customer 381,Portugal,2023-09-16
+382,Customer 382,United Kingdom,2023-04-27
+383,Customer 383,Brazil,2024-02-15
+384,Customer 384,United Kingdom,2023-03-17
+385,Customer 385,Portugal,2023-06-05
+386,Customer 386,Germany,2024-07-30
+387,Customer 387,France,2023-03-29
+388,Customer 388,Spain,2023-05-02
+389,Customer 389,Netherlands,2024-09-12
+390,Customer 390,Spain,2024-06-19
+391,Customer 391,Netherlands,2024-04-06
+392,Customer 392,United Kingdom,2023-11-01
+393,Customer 393,Netherlands,2023-11-09
+394,Customer 394,Portugal,2024-09-16
+395,Customer 395,Brazil,2023-08-01
+396,Customer 396,Spain,2023-09-28
+397,Customer 397,Brazil,2023-06-10
+398,Customer 398,Spain,2023-06-27
+399,Customer 399,Brazil,2023-06-10
+400,Customer 400,Portugal,2024-02-23
+401,Customer 401,United Kingdom,2024-08-31
+402,Customer 402,United Kingdom,2023-10-26
+403,Customer 403,Portugal,2023-08-26
+404,Customer 404,France,2023-10-17
+405,Customer 405,United Kingdom,2023-03-14
+406,Customer 406,Spain,2023-09-28
+407,Customer 407,Spain,2024-03-11
+408,Customer 408,Brazil,2024-07-11
+409,Customer 409,Spain,2024-10-25
+410,Customer 410,Germany,2023-09-30
+411,Customer 411,Germany,2023-03-15
+412,Customer 412,Portugal,2023-06-19
+413,Customer 413,France,2024-09-01
+414,Customer 414,France,2024-03-25
+415,Customer 415,Brazil,2024-04-24
+416,Customer 416,France,2024-02-17
+417,Customer 417,France,2024-05-27
+418,Customer 418,United Kingdom,2024-03-24
+419,Customer 419,Brazil,2024-09-04
+420,Customer 420,Portugal,2024-03-18
+421,Customer 421,Italy,2024-09-10
+422,Customer 422,France,2023-01-27
+423,Customer 423,Brazil,2023-08-23
+424,Customer 424,Portugal,2024-11-19
+425,Customer 425,France,2024-08-13
+426,Customer 426,Portugal,2023-06-29
+427,Customer 427,United Kingdom,2024-06-15
+428,Customer 428,United Kingdom,2023-10-12
+429,Customer 429,Germany,2024-08-22
+430,Customer 430,Netherlands,2024-10-12
+431,Customer 431,United Kingdom,2023-04-04
+432,Customer 432,United Kingdom,2023-12-23
+433,Customer 433,Netherlands,2023-12-08
+434,Customer 434,Italy,2024-11-17
+435,Customer 435,Brazil,2023-06-14
+436,Customer 436,Italy,2024-02-26
+437,Customer 437,United Kingdom,2023-10-23
+438,Customer 438,Netherlands,2024-07-17
+439,Customer 439,Portugal,2024-04-10
+440,Customer 440,Brazil,2023-11-19
+441,Customer 441,France,2023-11-28
+442,Customer 442,Brazil,2024-02-18
+443,Customer 443,Portugal,2024-11-04
+444,Customer 444,United Kingdom,2024-02-28
+445,Customer 445,Portugal,2023-07-12
+446,Customer 446,Italy,2024-09-29
+447,Customer 447,United Kingdom,2024-10-02
+448,Customer 448,United Kingdom,2023-02-22
+449,Customer 449,Spain,2023-10-01
+450,Customer 450,Germany,2023-10-22
+451,Customer 451,United Kingdom,2024-05-11
+452,Customer 452,Brazil,2023-01-30
+453,Customer 453,Spain,2023-06-12
+454,Customer 454,France,2024-07-18
+455,Customer 455,Portugal,2024-07-19
+456,Customer 456,Netherlands,2023-04-06
+457,Customer 457,Spain,2023-04-27
+458,Customer 458,United Kingdom,2023-05-01
+459,Customer 459,Germany,2024-05-25
+460,Customer 460,France,2024-06-05
+461,Customer 461,France,2024-03-01
+462,Customer 462,United Kingdom,2024-04-28
+463,Customer 463,Spain,2024-04-12
+464,Customer 464,Germany,2024-01-28
+465,Customer 465,Spain,2024-09-05
+466,Customer 466,Germany,2023-03-13
+467,Customer 467,France,2024-02-29
+468,Customer 468,Italy,2024-06-03
+469,Customer 469,France,2023-01-03
+470,Customer 470,France,2023-11-02
+471,Customer 471,United Kingdom,2023-06-02
+472,Customer 472,United Kingdom,2024-07-05
+473,Customer 473,United Kingdom,2023-12-20
+474,Customer 474,Italy,2024-07-19
+475,Customer 475,Netherlands,2024-04-11
+476,Customer 476,Italy,2023-07-13
+477,Customer 477,Spain,2024-08-08
+478,Customer 478,Netherlands,2023-08-28
+479,Customer 479,Netherlands,2023-02-14
+480,Customer 480,Italy,2024-04-29
+481,Customer 481,Netherlands,2024-01-31
+482,Customer 482,Germany,2024-05-22
+483,Customer 483,Portugal,2023-05-10
+484,Customer 484,Italy,2023-04-13
+485,Customer 485,United Kingdom,2023-04-13
+486,Customer 486,United Kingdom,2023-01-16
+487,Customer 487,Germany,2024-02-24
+488,Customer 488,Germany,2023-03-18
+489,Customer 489,United Kingdom,2023-09-29
+490,Customer 490,Italy,2024-09-30
+491,Customer 491,Netherlands,2024-10-27
+492,Customer 492,Brazil,2023-12-03
+493,Customer 493,Netherlands,2023-11-21
+494,Customer 494,United Kingdom,2024-07-08
+495,Customer 495,Portugal,2024-09-24
+496,Customer 496,Brazil,2023-08-29
+497,Customer 497,France,2023-08-21
+498,Customer 498,Brazil,2024-03-20
+499,Customer 499,Brazil,2024-10-10
+500,Customer 500,Brazil,2024-03-30
