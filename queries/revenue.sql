@@ -15,4 +15,12 @@ FROM orders o
 JOIN order_items oi ON o.order_id = oi.order_id
 WHERE o.status = 'completed';
 
-
+-- Revenue by order status
+SELECT
+    o.status,
+    COUNT(DISTINCT o.order_id) AS number_of_orders,
+    ROUND(SUM(oi.quantity * oi.unit_price), 2) AS total_value
+FROM orders o
+JOIN order_items oi ON o.order_id = oi.order_id
+GROUP BY o.status
+ORDER BY total_value DESC;
