@@ -11,3 +11,16 @@ WHERE o.status = 'completed'
 GROUP BY c.customer_id, c.customer_name, c.country
 ORDER BY total_revenue DESC
 LIMIT 10;
+
+-- Revenue by country
+SELECT
+    c.country,
+    COUNT(DISTINCT c.customer_id) AS number_of_customers,
+    COUNT(DISTINCT o.order_id) AS completed_orders,
+    ROUND(SUM(oi.quantity * oi.unit_price), 2) AS revenue
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+JOIN order_items oi ON o.order_id = oi.order_id
+WHERE o.status = 'completed'
+GROUP BY c.country
+ORDER BY revenue DESC;
