@@ -25,3 +25,23 @@ SELECT
     ) AS month_over_month_growth_percent
 FROM revenue_with_lag
 ORDER BY month;
+
+-- Ranking products inside each category
+WITH product_revenue AS (
+    SELECT
+        p.category,
+        p.product_name,
+        ROUND(SUM(oi.quantity * oi.unit_price), 2) AS revenue
+    FROM products p
+    JOIN order_items oi ON p.product_id = oi.product_id
+    JOIN orders o ON oi.order_id = o.order_id
+    WHERE o.status = 'completed'
+    GROUP BY p.category, p.product_name
+)
+SELECT
+    category,
+    product_name,
+    revenue,
+    RANK() OVER (PARTITION BY category ORDER BY revenue DESC) AS category_rank
+FROM product_revenue
+ORDER BY category, category_rank;
